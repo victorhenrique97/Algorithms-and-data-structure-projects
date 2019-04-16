@@ -1,0 +1,11 @@
+Nome:
+	Victor Henrique de Souza Rodrigues
+
+NUSP:
+	9791027
+
+OBS:
+	-> Para rodar o makefile basta adcionar o arquivo e o nome do arquivo de entrada e de saida na linha run no lugar de "filename"
+	-> Para debugar o código fazer a mesma coisa
+	-> Testei para todos os casos, exceto de 1M na lista ligada e de 1M no skip list e lista ligada
+	-> essas saidas estão na pasta Outputs
