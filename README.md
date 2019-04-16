@@ -1,4 +1,4 @@
-# Algorithms-and-data-structure-projects
+# Algorithms and ata structure projects
 Projects developed in Algorithms and data structure course at University of Sao Paulo - Brazil
 
 * T0 - TAD Heap with d children
